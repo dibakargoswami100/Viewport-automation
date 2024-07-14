@@ -76,7 +76,7 @@ try:
 
 finally:
     driver.close
-```
+``
 
 ## Contributing
 
