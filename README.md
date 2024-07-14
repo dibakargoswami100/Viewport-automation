@@ -2,6 +2,10 @@
 
 This project demonstrates how to automate viewport testing using Python and Selenium. The script resizes the browser window to various viewports to test the responsiveness of a website.
 
+
+https://github.com/user-attachments/assets/937ca29c-e678-4b68-aff1-786c1053265d
+
+
 ## Project Overview
 
 The goal of this project is to automate the process of resizing the browser window to different viewport dimensions and observing the behavior of a website. This can be useful for testing the responsiveness of web applications across different device sizes.
